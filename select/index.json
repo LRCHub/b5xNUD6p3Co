@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "初夏、殺意は街を浸す病のように",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T07:11:57.443021Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "初夏、殺意は街を浸す病のように",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_初夏、殺意は街を浸す病のように_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "初夏、殺意は街を浸す病のように",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_初夏、殺意は街を浸す病のように_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "初夏、殺意は街を浸す病のように",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_初夏、殺意は街を浸す病のように_キタニタツヤ.txt"
+    }
+  ]
+}
